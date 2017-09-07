@@ -8,10 +8,10 @@ import requests
 import utils
 
 
-BASE_URL = "http://www2.tceq.texas.gov/oce/eer/index.cfm?fuseaction=main.dispatchSearch&startmonth=8&startday=01&startyear=2017&endmonth=&endday=&endyear=&county=&ctyorreg=region&region=12&doit=Submit"
+BASE_URL = "http://www2.tceq.texas.gov/oce/eer/index.cfm?fuseaction=main.dispatchSearch&startmonth=8&startday=01&startyear=2017&endmonth=&endday=&endyear=&county=&ctyorreg=region&region=%s&doit=Submit"
 DETAIL_URL = "http://www2.tceq.texas.gov/oce/eer/index.cfm?fuseaction=main.getDetails&target=%s"
 DATA_DIR = os.environ.get('DATA_DIR', 'data/')
-
+REGIONS = ["10", "12"]
 
 class Scrape:
     """
@@ -21,12 +21,14 @@ class Scrape:
     new_incident_ids = [] # Just doing this for testing.
     old_incident_ids = []
     incidents = {}
+    region = None
 
-    def __init__(self):
+    def __init__(self, *args, **kwargs):
         """
         This is run when the class instantiates.
         It's the control flow for our scrape.
         """
+        self.region = kwargs.get('region', None)
         self.retrieve_old_incidents()
         self.scrape_new_incidents() # Just doing this for testing.
         self.scrape_new_details()
@@ -44,7 +46,7 @@ class Scrape:
         Gets a list of IDs for incidents.
         Only stores IDs for ones we haven't seen before.
         """
-        r = requests.get(BASE_URL)
+        r = requests.get(BASE_URL % self.region)
         soup = BeautifulSoup(r.text, 'lxml')
         rows = soup.select('div#content > table tr')[1:]
         incidents = {}
@@ -167,8 +169,9 @@ class Scrape:
                 self.incidents[idnum] = data_dict
 
     def persist_incidents(self):
-        with open('data/output.json', 'w') as writefile:
+        with open('data/region-%s.json' % self.region, 'w') as writefile:
             writefile.write(json.dumps(self.incidents))
 
 if __name__ == "__main__":
-    s = Scrape()
+    for region in REGIONS:
+        s = Scrape(region=region)
