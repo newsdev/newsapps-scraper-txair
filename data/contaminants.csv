@@ -1,0 +1,749 @@
+contaminant,authorization,limit,amount_released,source,event_id,region
+"1,3-BUTADIENE",No specific authorization,0.0,14000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Benzene,No specific authorization,0.0,6500.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Butanes,No specific authorization,0.0,15000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+"Butenes, All Isomers",No specific authorization,0.0,10000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Carbon Monoxide,No specific authorization,0.0,150000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Ethylbenzene,No specific authorization,0.0,1500.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Ethylene (gaseous),No specific authorization,0.0,150000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Isobutylene,No specific authorization,0.0,3000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Nitrogen dioxide,No specific authorization,0.0,4000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Nitrogen oxide,No specific authorization,0.0,25000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Pentanes,No specific authorization,0.0,10500.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Propane,No specific authorization,0.0,21000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Propylene,No specific authorization,0.0,50000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Toluene,No specific authorization,0.0,2000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Xylene (mixed isomers),No specific authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 10
+Carbon Monoxide,NSR Permit 20485 and Title V Permit O1327,84.05 LBS/HR,1000.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266761,region 10
+NOX,NSR Permit 20485 and Title V Permit O1327,16.32 LBS/HR,1000.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266761,region 10
+Opacity,NSR Permit 20485 and Title V Permit O1327,0.0,75.0 % op (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266761,region 10
+Carbon Monoxide,Permit 19394,184.7 LBS/HR,1474.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 10
+Ethylene (gaseous),Permit 19394,149.91 LBS/HR,246.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 10
+Hexene,Permit 19394,149.91 LBS/HR,11.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 10
+Isobutane,Permit 19394,149.91 LBS/HR,1280.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 10
+Isopentane,Permit 19394,149.91 LBS/HR,449.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 10
+Nitrous Oxides,Permit 19394,46.38 LBS/HR,435.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 10
+Sulfur dioxide,Permit 19394,0.48 LBS/HR,0.0267 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 10
+Benzene,Permit 21101 (as VOC),476.58 LBS/HR,0.16 lbs (est.),"Source 3: Unit Process Flare , EPN number F-40-FLARE",264804,region 10
+"Butadiene, 1-3",Permit 21101 (as VOC),476.58 LBS/HR,12.86 lbs (est.),"Source 3: Unit Process Flare , EPN number F-40-FLARE",264804,region 10
+Carbon Monoxide,Permit 21101,364.28 LBS/HR,31.61 lbs (est.),"Source 3: Unit Process Flare , EPN number F-40-FLARE",264804,region 10
+NOX,Permit 21101,71.49 LBS/HR,5.48 lbs (est.),"Source 3: Unit Process Flare , EPN number F-40-FLARE",264804,region 10
+Other VOCs,Permit 21101,476.58 LBS/HR,30.54 lbs (est.),"Source 3: Unit Process Flare , EPN number F-40-FLARE",264804,region 10
+Butanes,Permit 49138,5156.31 LBS/HR,6554.82 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 10
+Carbon Monoxide,Permit 49138,3919.77 LBS/HR,4981.12 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 10
+Hydrogen Sulfide,Permit 49138,157.03 LBS/HR,17.52 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 10
+Nitrogen Oxides (NOx),Permit 49138,1028.46 LBS/HR,697.36 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 10
+Pentanes,Permit 49138,5156.31 LBS/HR,3229.04 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 10
+Propane,Permit 49138,5156.31 LBS/HR,1384.81 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 10
+Sulfur dioxide,Permit 49138,15649.92 LBS/HR,1613.41 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 10
+Carbon Monoxide,Permit 49138,3919.77 LBS/HR,76.41 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 10
+Hydrogen Sulfide,Permit 49138,157.03 LBS/HR,0.79 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 10
+Nitrogen Oxides (NOx),Permit 49138,1028.46 LBS/HR,45.92 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 10
+PM10,Permit 49138,1020.67 LBS/HR,1.97 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 10
+Sulfur dioxide,Permit 49138,15649.92 LBS/HR,19165.7 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 10
+VOC (unspeciated),Permit 49138,5156.31 LBS/HR,0.04 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 10
+Carbon Monoxide,NSR Permit 46396,226.9 LBS/HR,36.14 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",264749,region 10
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,0.08 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",264749,region 10
+NOX,NSR Permit 46396,33.0 LBS/HR,7.11 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",264749,region 10
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,1699.69 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",264749,region 10
+VOC,NSR Permit 46396,529.58 LBS/HR,26.23 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",264749,region 10
+Carbon Monoxide,NSR Permit 46396,226.9 LBS/HR,94.39 lbs (est.),"Source 4: South Flare , EPN number FLARECAP",264749,region 10
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,0.03 lbs (est.),"Source 4: South Flare , EPN number FLARECAP",264749,region 10
+NOX,NSR Permit 46396,33.0 LBS/HR,17.79 lbs (est.),"Source 4: South Flare , EPN number FLARECAP",264749,region 10
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,6213.69 lbs (est.),"Source 4: South Flare , EPN number FLARECAP",264749,region 10
+VOC,NSR Permit 46396,529.58 LBS/HR,134.09 lbs (est.),"Source 4: South Flare , EPN number FLARECAP",264749,region 10
+Crude Oil,101.1/ Stand. Permit No.13493,1.0 bbls,5400.0 lbs (est.),"Source 3: Tank 217/IFR , EPN number Tank 217/IFR",267063,region 10
+Opacity,Permit O982,10.0 % op,100.0 % op (est.),"Source 2: Continuous Kiln No. 3 , EPN number K-03",266258,region 10
+Opacity,Permit O982,10.0 % op,100.0 % op (est.),"Source 4: Kiln No. 3 Burner Abort Stack , EPN number ABRSTK",266258,region 10
+Opacity,'No specific emissions authorizations for this facility',10.0 % op,72.33 % op (est.),"Source 1: Boiler , EPN number 22",266504,region 10
+Opacity,'No specific emissions authorizations for this facility',10.0 % op,27.78 % op (est.),"Source 1: Boiler , EPN number 22",266580,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,6116.12 lbs (est.),"Source 3: Flare 23 , EPN number E-23-FLARE",266817,region 10
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 1: Alkyation Unit Flare , EPN number EFCCU 1&2",266550,region 10
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 1: Alkyation Unit Flare , EPN number EFCCU 1&2",266550,region 10
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 1: Alkyation Unit Flare , EPN number EFCCU 1&2",266550,region 10
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 1: Alkyation Unit Flare , EPN number EFCCU 1&2",266550,region 10
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 1: Alkyation Unit Flare , EPN number EFCCU 1&2",266550,region 10
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 3: CRU4 Flare , EPN number ECRU4",266550,region 10
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 3: CRU4 Flare , EPN number ECRU4",266550,region 10
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 3: CRU4 Flare , EPN number ECRU4",266550,region 10
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 3: CRU4 Flare , EPN number ECRU4",266550,region 10
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 3: CRU4 Flare , EPN number ECRU4",266550,region 10
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 5: DCU1 Flare , EPN number EDCU1",266550,region 10
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 5: DCU1 Flare , EPN number EDCU1",266550,region 10
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 5: DCU1 Flare , EPN number EDCU1",266550,region 10
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 5: DCU1 Flare , EPN number EDCU1",266550,region 10
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 5: DCU1 Flare , EPN number EDCU1",266550,region 10
+Carbon Monoxide,Permit 6056,0.0,5001.0 lbs (est.),"Source 6: DCU2 Flare , EPN number EDCU2",266550,region 10
+Hydrogen Sulfide,Permit 6056,0.0,101.0 lbs (est.),"Source 6: DCU2 Flare , EPN number EDCU2",266550,region 10
+Nitrogen Oxides (NOx),Permit 6056,0.0,1001.0 lbs (est.),"Source 6: DCU2 Flare , EPN number EDCU2",266550,region 10
+Sulfur dioxide,Permit 6056,0.0,501.0 lbs (est.),"Source 6: DCU2 Flare , EPN number EDCU2",266550,region 10
+VOCs,Permit 6056,0.0,101.0 lbs (est.),"Source 6: DCU2 Flare , EPN number EDCU2",266550,region 10
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 9: FCCU Flare , EPN number EFCCU3",266550,region 10
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 9: FCCU Flare , EPN number EFCCU3",266550,region 10
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 9: FCCU Flare , EPN number EFCCU3",266550,region 10
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 9: FCCU Flare , EPN number EFCCU3",266550,region 10
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 9: FCCU Flare , EPN number EFCCU3",266550,region 10
+Carbon Monoxide,Permit 6056,0.0,5001.0 lbs (est.),"Source 11: HCU2 Flare , EPN number EHCU2",266550,region 10
+Hydrogen Sulfide,Permit 6056,0.0,101.0 lbs (est.),"Source 11: HCU2 Flare , EPN number EHCU2",266550,region 10
+Nitrogen Oxides (NOx),Permit 6056,0.0,1001.0 lbs (est.),"Source 11: HCU2 Flare , EPN number EHCU2",266550,region 10
+Sulfur dioxide,Permit 6056,0.0,501.0 lbs (est.),"Source 11: HCU2 Flare , EPN number EHCU2",266550,region 10
+VOCs,Permit 6056,0.0,101.0 lbs (est.),"Source 11: HCU2 Flare , EPN number EHCU2",266550,region 10
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 12: HTU4 Flare , EPN number EHTU4",266550,region 10
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 12: HTU4 Flare , EPN number EHTU4",266550,region 10
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 12: HTU4 Flare , EPN number EHTU4",266550,region 10
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 12: HTU4 Flare , EPN number EHTU4",266550,region 10
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 12: HTU4 Flare , EPN number EHTU4",266550,region 10
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 15: LHCU Flare , EPN number EHCU",266550,region 10
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 15: LHCU Flare , EPN number EHCU",266550,region 10
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 15: LHCU Flare , EPN number EHCU",266550,region 10
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 15: LHCU Flare , EPN number EHCU",266550,region 10
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 15: LHCU Flare , EPN number EHCU",266550,region 10
+Carbon Monoxide,Permit 6056,0.0,5001.0 lbs (est.),"Source 18: SBU2 Flare , EPN number ESBU2",266550,region 10
+Hydrogen Sulfide,Permit 6056,0.0,101.0 lbs (est.),"Source 18: SBU2 Flare , EPN number ESBU2",266550,region 10
+Nitrogen Oxides (NOx),Permit 6056,0.0,1001.0 lbs (est.),"Source 18: SBU2 Flare , EPN number ESBU2",266550,region 10
+Sulfur dioxide,Permit 6056,0.0,501.0 lbs (est.),"Source 18: SBU2 Flare , EPN number ESBU2",266550,region 10
+VOCs,Permit 6056,0.0,101.0 lbs (est.),"Source 18: SBU2 Flare , EPN number ESBU2",266550,region 10
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 20: VPS4 Flare , EPN number EVPS4",266550,region 10
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 20: VPS4 Flare , EPN number EVPS4",266550,region 10
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 20: VPS4 Flare , EPN number EVPS4",266550,region 10
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 20: VPS4 Flare , EPN number EVPS4",266550,region 10
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 20: VPS4 Flare , EPN number EVPS4",266550,region 10
+Carbon Monoxide,Permit 6056,0.0,5001.0 lbs (est.),"Source 21: VPS5 Flare , EPN number EVPS5",266550,region 10
+Hydrogen Sulfide,Permit 6056,0.0,101.0 lbs (est.),"Source 21: VPS5 Flare , EPN number EVPS5",266550,region 10
+Nitrogen Oxides (NOx),Permit 6056,0.0,1001.0 lbs (est.),"Source 21: VPS5 Flare , EPN number EVPS5",266550,region 10
+Sulfur dioxide,Permit 6056,0.0,501.0 lbs (est.),"Source 21: VPS5 Flare , EPN number EVPS5",266550,region 10
+VOCs,Permit 6056,0.0,101.0 lbs (est.),"Source 21: VPS5 Flare , EPN number EVPS5",266550,region 10
+Methyl tert-butyl ether,NSR 20160,0.04 LBS/HR,1000.0 lbs (est.),"Source 3: PO Fugitives , EPN number POFUG",266763,region 10
+CO,NSR Permit 46396,39.53 LBS/HR,22.72 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 10
+Hydrogen Sulfide,NSR Permit 46396,0.03 LBS/HR,1.3 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 10
+NOX,NSR Permit 46396,6.4 LBS/HR,4.4 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 10
+Other material,NSR Permit 46396 (as PM2.5),2.5 LBS/HR,0.97 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 10
+PM10,NSR Permit 46396,2.5 LBS/HR,0.97 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 10
+Particulate Matter,NSR Permit 46396,2.5 LBS/HR,0.97 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 10
+Sulfur dioxide,NSR Permit 46396,55.31 LBS/HR,2506.67 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 10
+VOC,NSR Permit 46396,0.43 LBS/HR,0.5 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 10
+Benzene,No specific Authorization,0.0,11.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 10
+Indane,No specific Authorization,0.0,22.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 10
+Indene,No specific Authorization,0.0,11.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 10
+Naphthalene,No specific Authorization,0.0,126.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 10
+Toluene,No specific Authorization,0.0,7.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 10
+VOC,No specific Authorization,0.0,69.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 10
+Xylene,No specific Authorization,0.0,7.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 10
+"1,3-BUTADIENE",No specific Authorization,0.0,13000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Acetylene,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Benzene,No specific Authorization,0.0,12000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Butanes,No specific Authorization,0.0,7000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+"Butenes, All Isomers",No specific Authorization,0.0,7500.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Carbon Monoxide,No specific Authorization,0.0,240000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Ethylbenzene,No specific Authorization,0.0,1500.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Ethylene (gaseous),No specific Authorization,0.0,120000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Isobutylene,No specific Authorization,0.0,2000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Isoprene,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Nitrogen dioxide,No specific Authorization,0.0,1200.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Nitrogen oxide,No specific Authorization,0.0,23000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Pentadiene,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Pentanes,No specific Authorization,0.0,17000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Propadiene,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Propane,No specific Authorization,0.0,40000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Propylene,No specific Authorization,0.0,40000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Styrene,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Toluene,No specific Authorization,0.0,3000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Xylenes,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 10
+Carbon Monoxide,NSR Permit 46396,226.9 LBS/HR,200.0 lbs (est.),"Source 1: East Flare , EPN number FLARECAP",266549,region 10
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,1.0 lbs (est.),"Source 1: East Flare , EPN number FLARECAP",266549,region 10
+Nitrogen oxide,NSR Permit 46396,33.0 LBS/HR,68.0 lbs (est.),"Source 1: East Flare , EPN number FLARECAP",266549,region 10
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,22000.0 lbs (est.),"Source 1: East Flare , EPN number FLARECAP",266549,region 10
+VOC,NSR Permit 46396,529.58 LBS/HR,600.0 lbs (est.),"Source 1: East Flare , EPN number FLARECAP",266549,region 10
+Carbon Monoxide,NSR Permit 46396,226.9 LBS/HR,200.0 lbs (est.),"Source 3: North Flare , EPN number FLARECAP",266549,region 10
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,1.0 lbs (est.),"Source 3: North Flare , EPN number FLARECAP",266549,region 10
+Nitrogen oxide,NSR Permit 46396,33.0 LBS/HR,66.0 lbs (est.),"Source 3: North Flare , EPN number FLARECAP",266549,region 10
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,15000.0 lbs (est.),"Source 3: North Flare , EPN number FLARECAP",266549,region 10
+VOC,NSR Permit 46396,529.58 LBS/HR,600.0 lbs (est.),"Source 3: North Flare , EPN number FLARECAP",266549,region 10
+Carbon Monoxide,NSR Permit 46396,40.37 LBS/HR,121.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 10
+Hydrogen Sulfide,NSR Permit 46396,1.06 LBS/HR,28.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 10
+Nitrogen oxide,NSR Permit 46396,4.5 LBS/HR,10.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 10
+PM10,NSR Permit 46396,1.08 LBS/HR,2.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 10
+Particulate Matter,NSR Permit 46396,1.08 LBS/HR,2.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 10
+Sulfur dioxide,NSR Permit 46396,37.8 LBS/HR,5000.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 10
+VOC,NSR Permit 46396,2.0 LBS/HR,5.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 10
+Carbon Monoxide,NSR Permit 46396,39.53 LBS/HR,121.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 10
+Hydrogen Sulfide,NSR Permit 46396,0.03 LBS/HR,28.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 10
+Nitrogen oxide,NSR Permit 46396,6.4 LBS/HR,10.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 10
+Other material,NSR Permit 46396 PM 2.5,2.5 LBS/HR,2.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 10
+PM10,NSR Permit 46396,2.5 LBS/HR,2.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 10
+Particulate Matter,NSR Permit 46396,2.5 LBS/HR,2.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 10
+Sulfur dioxide,NSR Permit 46396,55.31 LBS/HR,5000.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 10
+VOC,NSR Permit 46396,0.43 LBS/HR,2.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 10
+Carbon Monoxide,NSR Permit 46396,39.53 LBS/HR,121.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 10
+Hydrogen Sulfide,NSR Permit 46396,0.03 LBS/HR,28.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 10
+Nitrogen oxide,NSR Permit 46396,6.4 LBS/HR,10.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 10
+Other material,NSR Permit 46396 PM 2.5,2.5 LBS/HR,2.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 10
+PM10,NSR Permit 46396,2.5 LBS/HR,2.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 10
+Particulate Matter,NSR Permit 46396,2.5 LBS/HR,2.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 10
+Sulfur dioxide,NSR Permit 46396,55.31 LBS/HR,5000.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 10
+VOC,NSR Permit 46396,0.43 LBS/HR,5.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 10
+Carbon Monoxide,NSR Permit 46396,226.9 LBS/HR,200.0 lbs (est.),"Source 9: South Flare , EPN number FLARECAP",266549,region 10
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,1.0 lbs (est.),"Source 9: South Flare , EPN number FLARECAP",266549,region 10
+Nitrogen oxide,NSR Permit 46396,33.0 LBS/HR,68.0 lbs (est.),"Source 9: South Flare , EPN number FLARECAP",266549,region 10
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,15000.0 lbs (est.),"Source 9: South Flare , EPN number FLARECAP",266549,region 10
+VOC,NSR Permit 46396,529.58 LBS/HR,600.0 lbs (est.),"Source 9: South Flare , EPN number FLARECAP",266549,region 10
+Carbon Monoxide,Permit 49138,3919.77 lbs,10525.75 lbs (est.),"Source 1: 10 Flare , EPN number 60FLR_010",266516,region 10
+Hydrogen Sulfide,Permit 49138,157.03 lbs,3.18 lbs (est.),"Source 1: 10 Flare , EPN number 60FLR_010",266516,region 10
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,1473.0 lbs (est.),"Source 1: 10 Flare , EPN number 60FLR_010",266516,region 10
+Sulfur dioxide,Permit 49138,15649.92 lbs,292.93 lbs (est.),"Source 1: 10 Flare , EPN number 60FLR_010",266516,region 10
+VOC (unspeciated),Permit 49138,5156.31 lbs,1446.54 lbs (est.),"Source 1: 10 Flare , EPN number 60FLR_010",266516,region 10
+Carbon Monoxide,Permit 49138,3919.77 lbs,12210.8 lbs (est.),"Source 3: 6 Flare , EPN number 60FLR_006",266516,region 10
+Hydrogen Sulfide,Permit 49138,157.03 lbs,14.69 lbs (est.),"Source 3: 6 Flare , EPN number 60FLR_006",266516,region 10
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,1706.3 lbs (est.),"Source 3: 6 Flare , EPN number 60FLR_006",266516,region 10
+Sulfur dioxide,Permit 49138,15649.92 lbs,1351.97 lbs (est.),"Source 3: 6 Flare , EPN number 60FLR_006",266516,region 10
+VOC (unspeciated),Permit 49138,5156.31 lbs,3343.34 lbs (est.),"Source 3: 6 Flare , EPN number 60FLR_006",266516,region 10
+Carbon Monoxide,Permit 49138,3919.77 lbs,10588.3 lbs (est.),"Source 6: CHD 1 Flare , EPN number 60FLR_001",266516,region 10
+Hydrogen Sulfide,Permit 49138,157.03 lbs,55.77 lbs (est.),"Source 6: CHD 1 Flare , EPN number 60FLR_001",266516,region 10
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,1514.36 lbs (est.),"Source 6: CHD 1 Flare , EPN number 60FLR_001",266516,region 10
+Sulfur dioxide,Permit 49138,15649.92 lbs,742.71 lbs (est.),"Source 6: CHD 1 Flare , EPN number 60FLR_001",266516,region 10
+VOC (unspeciated),Permit 49138,5156.31 lbs,2435.67 lbs (est.),"Source 6: CHD 1 Flare , EPN number 60FLR_001",266516,region 10
+Carbon Monoxide,Permit 49138,3919.77 lbs,16244.8 lbs (est.),"Source 8: FCC Flare , EPN number 60FLR_008",266516,region 10
+Hydrogen Sulfide,Permit 49138,157.03 lbs,272.92 lbs (est.),"Source 8: FCC Flare , EPN number 60FLR_008",266516,region 10
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,2287.67 lbs (est.),"Source 8: FCC Flare , EPN number 60FLR_008",266516,region 10
+Sulfur dioxide,Permit 49138,15649.92 lbs,2364.99 lbs (est.),"Source 8: FCC Flare , EPN number 60FLR_008",266516,region 10
+VOC (unspeciated),Permit 49138,5156.31 lbs,4936.01 lbs (est.),"Source 8: FCC Flare , EPN number 60FLR_008",266516,region 10
+Carbon Monoxide,Permit 49138,3919.77 lbs,9714.92 lbs (est.),"Source 10: HP Flare , EPN number 60FLR_003",266516,region 10
+Hydrogen Sulfide,Permit 49138,157.03 lbs,484.17 lbs (est.),"Source 10: HP Flare , EPN number 60FLR_003",266516,region 10
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,1497.4 lbs (est.),"Source 10: HP Flare , EPN number 60FLR_003",266516,region 10
+Sulfur dioxide,Permit 49138,15649.92 lbs,1.0 lbs (est.),"Source 10: HP Flare , EPN number 60FLR_003",266516,region 10
+VOC (unspeciated),Permit 49138,5156.31 lbs,5459.75 lbs (est.),"Source 10: HP Flare , EPN number 60FLR_003",266516,region 10
+Carbon Monoxide,Permit 49138,3919.77 lbs,10498.47 lbs (est.),"Source 12: LP Flare , EPN number 60FLR_005",266516,region 10
+Hydrogen Sulfide,Permit 49138,157.03 lbs,76.33 lbs (est.),"Source 12: LP Flare , EPN number 60FLR_005",266516,region 10
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,1493.19 lbs (est.),"Source 12: LP Flare , EPN number 60FLR_005",266516,region 10
+Sulfur dioxide,Permit 49138,15649.92 lbs,2057.91 lbs (est.),"Source 12: LP Flare , EPN number 60FLR_005",266516,region 10
+VOC (unspeciated),Permit 49138,5156.31 lbs,2283.73 lbs (est.),"Source 12: LP Flare , EPN number 60FLR_005",266516,region 10
+CO,NSR Permit 46396,226.9 LBS/HR,27.93 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",266048,region 10
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,0.03 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",266048,region 10
+NOX,NSR Permit 46396,33.0 LBS/HR,5.48 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",266048,region 10
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,490.95 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",266048,region 10
+VOC,NSR Permit 46396,529.58 LBS/HR,19.44 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",266048,region 10
+CO,NSR Permit 46396,226.9 LBS/HR,16.95 lbs (est.),"Source 3: South Flare , EPN number FLARECAP",266048,region 10
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,0.01 lbs (est.),"Source 3: South Flare , EPN number FLARECAP",266048,region 10
+NOX,NSR Permit 46396,33.0 LBS/HR,3.32 lbs (est.),"Source 3: South Flare , EPN number FLARECAP",266048,region 10
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,617.32 lbs (est.),"Source 3: South Flare , EPN number FLARECAP",266048,region 10
+VOC,NSR Permit 46396,529.58 LBS/HR,10.56 lbs (est.),"Source 3: South Flare , EPN number FLARECAP",266048,region 10
+VOC MIXTURE,20057,0.04 LBS/HR,100.0 lbs (est.),"Source 1: Waste Water Tank Farm , EPN number S582F-3",266429,region 10
+"1,3-BUTADIENE",NSR Permit 20485 and Title V Permit O1327,100.16 LBS/HR,111.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266466,region 10
+Carbon Monoxide,NSR Permit 20485 and Title V Permit O1327,120.9 LBS/HR,1120.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266466,region 10
+NOX,NSR Permit 20485 and Title V Permit O1327,23.47 LBS/HR,1024.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266466,region 10
+Opacity,NSR Permit 20485 and Title V Permit O1327,0.0,40.0 % op (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266466,region 10
+VOCs,NSR Permit 20485 and Title V Permit O1327,253.97 LBS/HR,1254.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266466,region 10
+Ammonia,1302 & PSD-TX-1085,0.0,109.8 lbs (est.),"Source 2: Ammonia Flare , EPN number PH70",266565,region 10
+Carbon Monoxide,1302 & PSD-TX-1085,0.0,139.6 lbs (est.),"Source 2: Ammonia Flare , EPN number PH70",266565,region 10
+Hydrogen cyanide,1302 & PSD-TX-1085,0.0,0.7 lbs (est.),"Source 2: Ammonia Flare , EPN number PH70",266565,region 10
+Nitrogen Oxides,1302 & PSD-TX-1085,0.0,71.68 lbs (est.),"Source 2: Ammonia Flare , EPN number PH70",266565,region 10
+Benzene,1302 & PSD-TX-1085,0.0,9.0 lbs (est.),"Source 3: BUILDING 3090 FUGITIVES , EPN number FH402",266565,region 10
+Cyclohexane,1302 & PSD-TX-1085,0.0,465.0 lbs (est.),"Source 3: BUILDING 3090 FUGITIVES , EPN number FH402",266565,region 10
+Ammonia,1302 & PSD-TX-1085,0.0,36.29 lbs (est.),"Source 6: Start-Up Flare , EPN number PH2",266565,region 10
+Carbon Monoxide,1302 & PSD-TX-1085,0.0,65.13 lbs (est.),"Source 6: Start-Up Flare , EPN number PH2",266565,region 10
+Hydrogen cyanide,1302 & PSD-TX-1085,0.0,0.96 lbs (est.),"Source 6: Start-Up Flare , EPN number PH2",266565,region 10
+Nitrogen Oxides,1302 & PSD-TX-1085,0.0,23.09 lbs (est.),"Source 6: Start-Up Flare , EPN number PH2",266565,region 10
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,135.0 lbs (est.),"Source 7: Flare 15 , EPN number E-15-FLARE",266764,region 10
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,74.0 lbs (est.),"Source 8: Flare 18 , EPN number E-18-FLARE",266764,region 10
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,485.0 lbs (est.),"Source 9: Flare 19 , EPN number E-19-FLARE",266764,region 10
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,11.0 lbs (est.),"Source 10: Flare 20 , EPN number E-20-FLARE",266764,region 10
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,1000.0 lbs (est.),"Source 11: Flare 22 , EPN number E-22-FLARE",266764,region 10
+Sulfur dioxide,NSR Permit 6825A MAERT Subcap,0.0,54151.0 lbs (est.),"Source 12: Flare 23 , EPN number E-23-FLARE",266764,region 10
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,1016.0 lbs (est.),"Source 13: Flare 26 , EPN number E-26-FLARE",266764,region 10
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,5630.0 lbs (est.),"Source 14: Flare-103B , EPN number E-103B-FLARE",266764,region 10
+CO,Permit 21101,77.52 LBS/HR,1900.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 10
+Cyclohexane,Permit 21101 (as VOC),166.26 LBS/HR,300.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 10
+NOX,Permit 21101,15.21 LBS/HR,300.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 10
+Other VOCs,Permit 21101,166.26 LBS/HR,500.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 10
+Propane,Permit 21101 (as VOC),166.26 LBS/HR,800.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 10
+Propylene (Propene),Permit 21101 (as VOC),166.26 LBS/HR,1800.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 10
+Acetylene,Permit 21101 (as VOC),2933.17 LBS/HR,11.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 10
+Benzene,Permit 21101 (as VOC),139.54 LBS/HR,70.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 10
+"Butadiene, 1-3",Permit 21101 (as VOC),2933.17 LBS/HR,70.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 10
+Butene,Permit 21101 (as VOC),2933.17 LBS/HR,80.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 10
+CO,Permit 21101,3057.24 LBS/HR,11000.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 10
+Ethylene (gaseous),Permit 21101 (as VOC),2933.17 LBS/HR,7000.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 10
+Isobutane,Permit 21101 (as VOC),2933.17 LBS/HR,60.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 10
+NOX,Permit 21101,464.93 LBS/HR,1800.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 10
+Other VOCs,Permit 21101,2933.17 LBS/HR,1000.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 10
+Propane,Permit 21101 (as VOC),2933.17 LBS/HR,1900.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 10
+Propylene (Propene),Permit 21101 (as VOC),2933.17 LBS/HR,6000.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 10
+Ethylene (gaseous),No specific emissions authorizations for this facility,0.0,514.3 lbs (est.),"Source 1: A3 South Flare , EPN number UER037",265176,region 10
+Ethylene (gaseous),No specific emissions authorizations for this facility,0.0,3236.0 lbs (est.),"Source 2: F8 Cycle Gas Vent , EPN number",265176,region 10
+Ethylene oxide,No specific emissions authorizations for this facility,0.0,3.25 lbs (est.),"Source 2: F8 Cycle Gas Vent , EPN number",265176,region 10
+Ethylene (gaseous),No specific emissions authorizations for this facility,0.0,2822.65 lbs (est.),"Source 5: F8 Reabsorber Vent , EPN number",265176,region 10
+Ethylene oxide,No specific emissions authorizations for this facility,0.0,0.741 lbs (est.),"Source 5: F8 Reabsorber Vent , EPN number",265176,region 10
+"1,3-BUTADIENE",Permit 21101 (as VOC),476.58 LBS/HR,0.17 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 10
+Butane,Permit 21101 (as VOC),476.58 LBS/HR,28.95 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 10
+CO,Permit 21101,364.28 LBS/HR,1274.49 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 10
+Cyclohexane,Permit 21101 (as VOC),476.58 LBS/HR,353.66 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 10
+Isobutane,Permit 21101 (as VOC),476.58 LBS/HR,48.21 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 10
+NOX,Permit 21101,71.49 LBS/HR,250.12 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 10
+Other VOCs,Permit 21101,476.58 LBS/HR,243.78 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 10
+Propylene,Permit 21101 (as VOC),476.58 LBS/HR,16.04 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 10
+"1,3-BUTADIENE",Permit 21101 (as VOC),416.5 LBS/HR,46.36 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 10
+Acetylene,Permit 21101 (as VOC),416.5 LBS/HR,4.88 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 10
+Benzene,Permit 21101 (as VOC),416.5 LBS/HR,93.24 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 10
+Carbon Monoxide,Permit 21101,362.11 LBS/HR,28886.63 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 10
+"Ethylene, gaseous",Permit 21101 (as VOC),416.5 LBS/HR,11816.88 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 10
+NOX,Permit 21101,90.68 LBS/HR,5060.2 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 10
+Other VOCs,Permit 21101,416.5 LBS/HR,130.91 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 10
+Propane,Permit 21101 (as VOC),416.5 LBS/HR,58.33 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 10
+Propylene,Permit 21101 (as VOC),416.5 LBS/HR,691.12 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,80000.0 lbs (est.),"Source 7: FCCU Regenerator Vent , EPN number E-01-WGS",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,500.0 lbs (est.),"Source 7: FCCU Regenerator Vent , EPN number E-01-WGS",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,600.0 lbs (est.),"Source 8: Flare 103B , EPN number E-103-FLARE",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,100.0 lbs (est.),"Source 8: Flare 103B , EPN number E-103-FLARE",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,120.0 lbs (est.),"Source 8: Flare 103B , EPN number E-103-FLARE",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,10000.0 lbs (est.),"Source 8: Flare 103B , EPN number E-103-FLARE",266834,region 10
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,180.0 lbs (est.),"Source 8: Flare 103B , EPN number E-103-FLARE",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,3600.0 lbs (est.),"Source 9: Flare 15 , EPN number E-15-FLARE",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,15.0 lbs (est.),"Source 9: Flare 15 , EPN number E-15-FLARE",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,700.0 lbs (est.),"Source 9: Flare 15 , EPN number E-15-FLARE",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,1200.0 lbs (est.),"Source 9: Flare 15 , EPN number E-15-FLARE",266834,region 10
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,800.0 lbs (est.),"Source 9: Flare 15 , EPN number E-15-FLARE",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,3000.0 lbs (est.),"Source 10: Flare 18 , EPN number E-18-FLARE",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,30.0 lbs (est.),"Source 10: Flare 18 , EPN number E-18-FLARE",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,600.0 lbs (est.),"Source 10: Flare 18 , EPN number E-18-FLARE",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,2500.0 lbs (est.),"Source 10: Flare 18 , EPN number E-18-FLARE",266834,region 10
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,500.0 lbs (est.),"Source 10: Flare 18 , EPN number E-18-FLARE",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,800.0 lbs (est.),"Source 11: Flare 19 , EPN number E-19-FLARE",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,100.0 lbs (est.),"Source 11: Flare 19 , EPN number E-19-FLARE",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,150.0 lbs (est.),"Source 11: Flare 19 , EPN number E-19-FLARE",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,10000.0 lbs (est.),"Source 11: Flare 19 , EPN number E-19-FLARE",266834,region 10
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,100.0 lbs (est.),"Source 11: Flare 19 , EPN number E-19-FLARE",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,400.0 lbs (est.),"Source 12: Flare 20 , EPN number E-20-FLARE",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,15.0 lbs (est.),"Source 12: Flare 20 , EPN number E-20-FLARE",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,80.0 lbs (est.),"Source 12: Flare 20 , EPN number E-20-FLARE",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,600.0 lbs (est.),"Source 12: Flare 20 , EPN number E-20-FLARE",266834,region 10
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,100.0 lbs (est.),"Source 12: Flare 20 , EPN number E-20-FLARE",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,8500.0 lbs (est.),"Source 13: Flare 22 , EPN number E-22-FLARE",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,100.0 lbs (est.),"Source 13: Flare 22 , EPN number E-22-FLARE",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,1800.0 lbs (est.),"Source 13: Flare 22 , EPN number E-22-FLARE",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,10000.0 lbs (est.),"Source 13: Flare 22 , EPN number E-22-FLARE",266834,region 10
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,2200.0 lbs (est.),"Source 13: Flare 22 , EPN number E-22-FLARE",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,12500.0 lbs (est.),"Source 14: Flare 23 , EPN number E-23-FLARE",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,300.0 lbs (est.),"Source 14: Flare 23 , EPN number E-23-FLARE",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,2500.0 lbs (est.),"Source 14: Flare 23 , EPN number E-23-FLARE",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,25000.0 lbs (est.),"Source 14: Flare 23 , EPN number E-23-FLARE",266834,region 10
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,1000.0 lbs (est.),"Source 14: Flare 23 , EPN number E-23-FLARE",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,1500.0 lbs (est.),"Source 15: Flare 26 , EPN number E-26-FLARE",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,30.0 lbs (est.),"Source 15: Flare 26 , EPN number E-26-FLARE",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,300.0 lbs (est.),"Source 15: Flare 26 , EPN number E-26-FLARE",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,2000.0 lbs (est.),"Source 15: Flare 26 , EPN number E-26-FLARE",266834,region 10
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,150.0 lbs (est.),"Source 15: Flare 26 , EPN number E-26-FLARE",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,40000.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,20.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,700.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 10
+Particulate Matter,NSR Permit 80812 Site Wide CAP,19.22 LBS/HR,150.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,5000.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 10
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,150.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site-Wide CAP,699.57 LBS/HR,40000.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site-Wide CAP,89.82 LBS/HR,20.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site-Wide CAP,167.23 LBS/HR,700.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 10
+Particulate Matter,NSR Permit 80812 Site-Wide CAP,19.22 LBS/HR,150.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site-Wide CAP,641.19 LBS/HR,5000.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 10
+VOC,NSR Permit 80812 Site-Wide CAP,4186.14 LBS/HR,150.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,500.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,15.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,500.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 10
+Particulate Matter,NSR Permit 80812 Site Wide CAP,19.22 LBS/HR,40.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,3000.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 10
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,40.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 10
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,500.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 10
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,30.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 10
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,500.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 10
+Particulate Matter,NSR Permit 80812 Site Wide CAP,19.22 LBS/HR,40.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 10
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,3000.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 10
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,40.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 10
+"1,3-BUTADIENE",NSR9908,0.18 LBS/HR,37.0 lbs (est.),"Source 2: REACDB , EPN number REAC216",265189,region 10
+Sulfur dioxide,Permit 49138,157.03 LBS/HR,1312.84 lbs (est.),"Source 2: Thermal Oxidizer , EPN number 32STK_001",266314,region 10
+"1,3-BUTADIENE",Permit 21101 (as VOC),476.58 LBS/HR,0.13 lbs (est.),"Source 1: Aromatics Process Flare , EPN number F-40-FLARE",265107,region 10
+Carbon Monoxide,Permit 21101,364.28 LBS/HR,235.7 lbs (est.),"Source 1: Aromatics Process Flare , EPN number F-40-FLARE",265107,region 10
+Cyclohexane,Permit 21101 (as VOC),476.58 LBS/HR,41.52 lbs (est.),"Source 1: Aromatics Process Flare , EPN number F-40-FLARE",265107,region 10
+NOX,Permit 21101,71.49 LBS/HR,46.26 lbs (est.),"Source 1: Aromatics Process Flare , EPN number F-40-FLARE",265107,region 10
+Other VOCs,Permit 21101,476.58 LBS/HR,40.9 lbs (est.),"Source 1: Aromatics Process Flare , EPN number F-40-FLARE",265107,region 10
+"1,3-BUTADIENE",Permit 21101 (as VOC),416.5 LBS/HR,0.44 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 10
+Acetylene,Permit 21101 (as VOC),416.5 LBS/HR,5.47 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 10
+Benzene,Permit 21101 (as VOC),416.5 LBS/HR,9.83 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 10
+Carbon Monoxide,Permit 21101,362.11 LBS/HR,10868.85 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 10
+Ethylene (gaseous),Permit 21101 (as VOC),416.5 LBS/HR,8955.75 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 10
+NOX,Permit 21101,90.68 LBS/HR,1667.73 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 10
+Other VOCs,Permit 21101,416.5 LBS/HR,19.75 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 10
+Propane,Permit 21101 (as VOC),416.5 LBS/HR,66.5 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 10
+Propylene (Propene),Permit 21101 (as VOC),416.5 LBS/HR,345.68 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 10
+Opacity,No specific emissions authorizations for this facility,10.0 % op,62.33 % op (est.),"Source 1: Boiler , EPN number 22",266256,region 10
+"1,3-BUTADIENE",No specific authorization,0.0,14000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Benzene,No specific authorization,0.0,6500.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Butanes,No specific authorization,0.0,15000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+"Butenes, All Isomers",No specific authorization,0.0,10000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Carbon Monoxide,No specific authorization,0.0,150000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Ethylbenzene,No specific authorization,0.0,1500.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Ethylene (gaseous),No specific authorization,0.0,150000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Isobutylene,No specific authorization,0.0,3000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Nitrogen dioxide,No specific authorization,0.0,4000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Nitrogen oxide,No specific authorization,0.0,25000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Pentanes,No specific authorization,0.0,10500.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Propane,No specific authorization,0.0,21000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Propylene,No specific authorization,0.0,50000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Toluene,No specific authorization,0.0,2000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Xylene (mixed isomers),No specific authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",267078,region 12
+Carbon Monoxide,NSR Permit 20485 and Title V Permit O1327,84.05 LBS/HR,1000.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266761,region 12
+NOX,NSR Permit 20485 and Title V Permit O1327,16.32 LBS/HR,1000.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266761,region 12
+Opacity,NSR Permit 20485 and Title V Permit O1327,0.0,75.0 % op (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266761,region 12
+Carbon Monoxide,Permit 19394,184.7 LBS/HR,1474.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 12
+Ethylene (gaseous),Permit 19394,149.91 LBS/HR,246.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 12
+Hexene,Permit 19394,149.91 LBS/HR,11.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 12
+Isobutane,Permit 19394,149.91 LBS/HR,1280.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 12
+Isopentane,Permit 19394,149.91 LBS/HR,449.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 12
+Nitrous Oxides,Permit 19394,46.38 LBS/HR,435.0 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 12
+Sulfur dioxide,Permit 19394,0.48 LBS/HR,0.0267 lbs (est.),"Source 1: Flare , EPN number 58",264965,region 12
+Benzene,Permit 21101 (as VOC),476.58 LBS/HR,0.16 lbs (est.),"Source 3: Unit Process Flare , EPN number F-40-FLARE",264804,region 12
+"Butadiene, 1-3",Permit 21101 (as VOC),476.58 LBS/HR,12.86 lbs (est.),"Source 3: Unit Process Flare , EPN number F-40-FLARE",264804,region 12
+Carbon Monoxide,Permit 21101,364.28 LBS/HR,31.61 lbs (est.),"Source 3: Unit Process Flare , EPN number F-40-FLARE",264804,region 12
+NOX,Permit 21101,71.49 LBS/HR,5.48 lbs (est.),"Source 3: Unit Process Flare , EPN number F-40-FLARE",264804,region 12
+Other VOCs,Permit 21101,476.58 LBS/HR,30.54 lbs (est.),"Source 3: Unit Process Flare , EPN number F-40-FLARE",264804,region 12
+Butanes,Permit 49138,5156.31 LBS/HR,6554.82 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 12
+Carbon Monoxide,Permit 49138,3919.77 LBS/HR,4981.12 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 12
+Hydrogen Sulfide,Permit 49138,157.03 LBS/HR,17.52 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 12
+Nitrogen Oxides (NOx),Permit 49138,1028.46 LBS/HR,697.36 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 12
+Pentanes,Permit 49138,5156.31 LBS/HR,3229.04 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 12
+Propane,Permit 49138,5156.31 LBS/HR,1384.81 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 12
+Sulfur dioxide,Permit 49138,15649.92 LBS/HR,1613.41 lbs (est.),"Source 1: High Pressure Flare , EPN number 60FLR_003",265179,region 12
+Carbon Monoxide,Permit 49138,3919.77 LBS/HR,76.41 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 12
+Hydrogen Sulfide,Permit 49138,157.03 LBS/HR,0.79 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 12
+Nitrogen Oxides (NOx),Permit 49138,1028.46 LBS/HR,45.92 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 12
+PM10,Permit 49138,1020.67 LBS/HR,1.97 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 12
+Sulfur dioxide,Permit 49138,15649.92 LBS/HR,19165.7 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 12
+VOC (unspeciated),Permit 49138,5156.31 LBS/HR,0.04 lbs (est.),"Source 4: SRU Thermal Oxidizer , EPN number 32STK_001",265179,region 12
+Carbon Monoxide,NSR Permit 46396,226.9 LBS/HR,36.14 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",264749,region 12
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,0.08 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",264749,region 12
+NOX,NSR Permit 46396,33.0 LBS/HR,7.11 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",264749,region 12
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,1699.69 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",264749,region 12
+VOC,NSR Permit 46396,529.58 LBS/HR,26.23 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",264749,region 12
+Carbon Monoxide,NSR Permit 46396,226.9 LBS/HR,94.39 lbs (est.),"Source 4: South Flare , EPN number FLARECAP",264749,region 12
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,0.03 lbs (est.),"Source 4: South Flare , EPN number FLARECAP",264749,region 12
+NOX,NSR Permit 46396,33.0 LBS/HR,17.79 lbs (est.),"Source 4: South Flare , EPN number FLARECAP",264749,region 12
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,6213.69 lbs (est.),"Source 4: South Flare , EPN number FLARECAP",264749,region 12
+VOC,NSR Permit 46396,529.58 LBS/HR,134.09 lbs (est.),"Source 4: South Flare , EPN number FLARECAP",264749,region 12
+Crude Oil,101.1/ Stand. Permit No.13493,1.0 bbls,5400.0 lbs (est.),"Source 3: Tank 217/IFR , EPN number Tank 217/IFR",267063,region 12
+Opacity,Permit O982,10.0 % op,100.0 % op (est.),"Source 2: Continuous Kiln No. 3 , EPN number K-03",266258,region 12
+Opacity,Permit O982,10.0 % op,100.0 % op (est.),"Source 4: Kiln No. 3 Burner Abort Stack , EPN number ABRSTK",266258,region 12
+Opacity,'No specific emissions authorizations for this facility',10.0 % op,72.33 % op (est.),"Source 1: Boiler , EPN number 22",266504,region 12
+Opacity,'No specific emissions authorizations for this facility',10.0 % op,27.78 % op (est.),"Source 1: Boiler , EPN number 22",266580,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,6116.12 lbs (est.),"Source 3: Flare 23 , EPN number E-23-FLARE",266817,region 12
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 1: Alkyation Unit Flare , EPN number EFCCU 1&2",266550,region 12
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 1: Alkyation Unit Flare , EPN number EFCCU 1&2",266550,region 12
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 1: Alkyation Unit Flare , EPN number EFCCU 1&2",266550,region 12
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 1: Alkyation Unit Flare , EPN number EFCCU 1&2",266550,region 12
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 1: Alkyation Unit Flare , EPN number EFCCU 1&2",266550,region 12
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 3: CRU4 Flare , EPN number ECRU4",266550,region 12
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 3: CRU4 Flare , EPN number ECRU4",266550,region 12
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 3: CRU4 Flare , EPN number ECRU4",266550,region 12
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 3: CRU4 Flare , EPN number ECRU4",266550,region 12
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 3: CRU4 Flare , EPN number ECRU4",266550,region 12
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 5: DCU1 Flare , EPN number EDCU1",266550,region 12
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 5: DCU1 Flare , EPN number EDCU1",266550,region 12
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 5: DCU1 Flare , EPN number EDCU1",266550,region 12
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 5: DCU1 Flare , EPN number EDCU1",266550,region 12
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 5: DCU1 Flare , EPN number EDCU1",266550,region 12
+Carbon Monoxide,Permit 6056,0.0,5001.0 lbs (est.),"Source 6: DCU2 Flare , EPN number EDCU2",266550,region 12
+Hydrogen Sulfide,Permit 6056,0.0,101.0 lbs (est.),"Source 6: DCU2 Flare , EPN number EDCU2",266550,region 12
+Nitrogen Oxides (NOx),Permit 6056,0.0,1001.0 lbs (est.),"Source 6: DCU2 Flare , EPN number EDCU2",266550,region 12
+Sulfur dioxide,Permit 6056,0.0,501.0 lbs (est.),"Source 6: DCU2 Flare , EPN number EDCU2",266550,region 12
+VOCs,Permit 6056,0.0,101.0 lbs (est.),"Source 6: DCU2 Flare , EPN number EDCU2",266550,region 12
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 9: FCCU Flare , EPN number EFCCU3",266550,region 12
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 9: FCCU Flare , EPN number EFCCU3",266550,region 12
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 9: FCCU Flare , EPN number EFCCU3",266550,region 12
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 9: FCCU Flare , EPN number EFCCU3",266550,region 12
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 9: FCCU Flare , EPN number EFCCU3",266550,region 12
+Carbon Monoxide,Permit 6056,0.0,5001.0 lbs (est.),"Source 11: HCU2 Flare , EPN number EHCU2",266550,region 12
+Hydrogen Sulfide,Permit 6056,0.0,101.0 lbs (est.),"Source 11: HCU2 Flare , EPN number EHCU2",266550,region 12
+Nitrogen Oxides (NOx),Permit 6056,0.0,1001.0 lbs (est.),"Source 11: HCU2 Flare , EPN number EHCU2",266550,region 12
+Sulfur dioxide,Permit 6056,0.0,501.0 lbs (est.),"Source 11: HCU2 Flare , EPN number EHCU2",266550,region 12
+VOCs,Permit 6056,0.0,101.0 lbs (est.),"Source 11: HCU2 Flare , EPN number EHCU2",266550,region 12
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 12: HTU4 Flare , EPN number EHTU4",266550,region 12
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 12: HTU4 Flare , EPN number EHTU4",266550,region 12
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 12: HTU4 Flare , EPN number EHTU4",266550,region 12
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 12: HTU4 Flare , EPN number EHTU4",266550,region 12
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 12: HTU4 Flare , EPN number EHTU4",266550,region 12
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 15: LHCU Flare , EPN number EHCU",266550,region 12
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 15: LHCU Flare , EPN number EHCU",266550,region 12
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 15: LHCU Flare , EPN number EHCU",266550,region 12
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 15: LHCU Flare , EPN number EHCU",266550,region 12
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 15: LHCU Flare , EPN number EHCU",266550,region 12
+Carbon Monoxide,Permit 6056,0.0,5001.0 lbs (est.),"Source 18: SBU2 Flare , EPN number ESBU2",266550,region 12
+Hydrogen Sulfide,Permit 6056,0.0,101.0 lbs (est.),"Source 18: SBU2 Flare , EPN number ESBU2",266550,region 12
+Nitrogen Oxides (NOx),Permit 6056,0.0,1001.0 lbs (est.),"Source 18: SBU2 Flare , EPN number ESBU2",266550,region 12
+Sulfur dioxide,Permit 6056,0.0,501.0 lbs (est.),"Source 18: SBU2 Flare , EPN number ESBU2",266550,region 12
+VOCs,Permit 6056,0.0,101.0 lbs (est.),"Source 18: SBU2 Flare , EPN number ESBU2",266550,region 12
+Carbon Monoxide,Permit 8404,0.0,5001.0 lbs (est.),"Source 20: VPS4 Flare , EPN number EVPS4",266550,region 12
+Hydrogen Sulfide,Permit 8404,0.0,101.0 lbs (est.),"Source 20: VPS4 Flare , EPN number EVPS4",266550,region 12
+Nitrogen Oxides (NOx),Permit 8404,0.0,1001.0 lbs (est.),"Source 20: VPS4 Flare , EPN number EVPS4",266550,region 12
+Sulfur dioxide,Permit 8404,0.0,501.0 lbs (est.),"Source 20: VPS4 Flare , EPN number EVPS4",266550,region 12
+VOCs,Permit 8404,0.0,101.0 lbs (est.),"Source 20: VPS4 Flare , EPN number EVPS4",266550,region 12
+Carbon Monoxide,Permit 6056,0.0,5001.0 lbs (est.),"Source 21: VPS5 Flare , EPN number EVPS5",266550,region 12
+Hydrogen Sulfide,Permit 6056,0.0,101.0 lbs (est.),"Source 21: VPS5 Flare , EPN number EVPS5",266550,region 12
+Nitrogen Oxides (NOx),Permit 6056,0.0,1001.0 lbs (est.),"Source 21: VPS5 Flare , EPN number EVPS5",266550,region 12
+Sulfur dioxide,Permit 6056,0.0,501.0 lbs (est.),"Source 21: VPS5 Flare , EPN number EVPS5",266550,region 12
+VOCs,Permit 6056,0.0,101.0 lbs (est.),"Source 21: VPS5 Flare , EPN number EVPS5",266550,region 12
+Methyl tert-butyl ether,NSR 20160,0.04 LBS/HR,1000.0 lbs (est.),"Source 3: PO Fugitives , EPN number POFUG",266763,region 12
+CO,NSR Permit 46396,39.53 LBS/HR,22.72 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 12
+Hydrogen Sulfide,NSR Permit 46396,0.03 LBS/HR,1.3 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 12
+NOX,NSR Permit 46396,6.4 LBS/HR,4.4 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 12
+Other material,NSR Permit 46396 (as PM2.5),2.5 LBS/HR,0.97 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 12
+PM10,NSR Permit 46396,2.5 LBS/HR,0.97 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 12
+Particulate Matter,NSR Permit 46396,2.5 LBS/HR,0.97 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 12
+Sulfur dioxide,NSR Permit 46396,55.31 LBS/HR,2506.67 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 12
+VOC,NSR Permit 46396,0.43 LBS/HR,0.5 lbs (est.),"Source 2: SRU No. 5 Incinerator , EPN number 36SRUINCIN",265554,region 12
+Benzene,No specific Authorization,0.0,11.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 12
+Indane,No specific Authorization,0.0,22.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 12
+Indene,No specific Authorization,0.0,11.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 12
+Naphthalene,No specific Authorization,0.0,126.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 12
+Toluene,No specific Authorization,0.0,7.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 12
+VOC,No specific Authorization,0.0,69.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 12
+Xylene,No specific Authorization,0.0,7.0 lbs (est.),"Source 1: API Separator , EPN number LOUAPISEP",266301,region 12
+"1,3-BUTADIENE",No specific Authorization,0.0,13000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Acetylene,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Benzene,No specific Authorization,0.0,12000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Butanes,No specific Authorization,0.0,7000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+"Butenes, All Isomers",No specific Authorization,0.0,7500.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Carbon Monoxide,No specific Authorization,0.0,240000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Ethylbenzene,No specific Authorization,0.0,1500.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Ethylene (gaseous),No specific Authorization,0.0,120000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Isobutylene,No specific Authorization,0.0,2000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Isoprene,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Nitrogen dioxide,No specific Authorization,0.0,1200.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Nitrogen oxide,No specific Authorization,0.0,23000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Pentadiene,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Pentanes,No specific Authorization,0.0,17000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Propadiene,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Propane,No specific Authorization,0.0,40000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Propylene,No specific Authorization,0.0,40000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Styrene,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Toluene,No specific Authorization,0.0,3000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Xylenes,No specific Authorization,0.0,1000.0 lbs (est.),"Source 1: LOU Flare , EPN number LOUFLARE",266378,region 12
+Carbon Monoxide,NSR Permit 46396,226.9 LBS/HR,200.0 lbs (est.),"Source 1: East Flare , EPN number FLARECAP",266549,region 12
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,1.0 lbs (est.),"Source 1: East Flare , EPN number FLARECAP",266549,region 12
+Nitrogen oxide,NSR Permit 46396,33.0 LBS/HR,68.0 lbs (est.),"Source 1: East Flare , EPN number FLARECAP",266549,region 12
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,22000.0 lbs (est.),"Source 1: East Flare , EPN number FLARECAP",266549,region 12
+VOC,NSR Permit 46396,529.58 LBS/HR,600.0 lbs (est.),"Source 1: East Flare , EPN number FLARECAP",266549,region 12
+Carbon Monoxide,NSR Permit 46396,226.9 LBS/HR,200.0 lbs (est.),"Source 3: North Flare , EPN number FLARECAP",266549,region 12
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,1.0 lbs (est.),"Source 3: North Flare , EPN number FLARECAP",266549,region 12
+Nitrogen oxide,NSR Permit 46396,33.0 LBS/HR,66.0 lbs (est.),"Source 3: North Flare , EPN number FLARECAP",266549,region 12
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,15000.0 lbs (est.),"Source 3: North Flare , EPN number FLARECAP",266549,region 12
+VOC,NSR Permit 46396,529.58 LBS/HR,600.0 lbs (est.),"Source 3: North Flare , EPN number FLARECAP",266549,region 12
+Carbon Monoxide,NSR Permit 46396,40.37 LBS/HR,121.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 12
+Hydrogen Sulfide,NSR Permit 46396,1.06 LBS/HR,28.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 12
+Nitrogen oxide,NSR Permit 46396,4.5 LBS/HR,10.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 12
+PM10,NSR Permit 46396,1.08 LBS/HR,2.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 12
+Particulate Matter,NSR Permit 46396,1.08 LBS/HR,2.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 12
+Sulfur dioxide,NSR Permit 46396,37.8 LBS/HR,5000.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 12
+VOC,NSR Permit 46396,2.0 LBS/HR,5.0 lbs (est.),"Source 6: SRU No. 1 & 3 Tailgas Thermal Oxidizer , EPN number 15SRUINCIN",266549,region 12
+Carbon Monoxide,NSR Permit 46396,39.53 LBS/HR,121.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 12
+Hydrogen Sulfide,NSR Permit 46396,0.03 LBS/HR,28.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 12
+Nitrogen oxide,NSR Permit 46396,6.4 LBS/HR,10.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 12
+Other material,NSR Permit 46396 PM 2.5,2.5 LBS/HR,2.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 12
+PM10,NSR Permit 46396,2.5 LBS/HR,2.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 12
+Particulate Matter,NSR Permit 46396,2.5 LBS/HR,2.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 12
+Sulfur dioxide,NSR Permit 46396,55.31 LBS/HR,5000.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 12
+VOC,NSR Permit 46396,0.43 LBS/HR,2.0 lbs (est.),"Source 7: SRU No. 4 Incinerator , EPN number 25SRUINCIN",266549,region 12
+Carbon Monoxide,NSR Permit 46396,39.53 LBS/HR,121.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 12
+Hydrogen Sulfide,NSR Permit 46396,0.03 LBS/HR,28.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 12
+Nitrogen oxide,NSR Permit 46396,6.4 LBS/HR,10.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 12
+Other material,NSR Permit 46396 PM 2.5,2.5 LBS/HR,2.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 12
+PM10,NSR Permit 46396,2.5 LBS/HR,2.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 12
+Particulate Matter,NSR Permit 46396,2.5 LBS/HR,2.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 12
+Sulfur dioxide,NSR Permit 46396,55.31 LBS/HR,5000.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 12
+VOC,NSR Permit 46396,0.43 LBS/HR,5.0 lbs (est.),"Source 8: SRU No. 5 Incinerator , EPN number 36SRUINCIN",266549,region 12
+Carbon Monoxide,NSR Permit 46396,226.9 LBS/HR,200.0 lbs (est.),"Source 9: South Flare , EPN number FLARECAP",266549,region 12
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,1.0 lbs (est.),"Source 9: South Flare , EPN number FLARECAP",266549,region 12
+Nitrogen oxide,NSR Permit 46396,33.0 LBS/HR,68.0 lbs (est.),"Source 9: South Flare , EPN number FLARECAP",266549,region 12
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,15000.0 lbs (est.),"Source 9: South Flare , EPN number FLARECAP",266549,region 12
+VOC,NSR Permit 46396,529.58 LBS/HR,600.0 lbs (est.),"Source 9: South Flare , EPN number FLARECAP",266549,region 12
+Carbon Monoxide,Permit 49138,3919.77 lbs,10525.75 lbs (est.),"Source 1: 10 Flare , EPN number 60FLR_010",266516,region 12
+Hydrogen Sulfide,Permit 49138,157.03 lbs,3.18 lbs (est.),"Source 1: 10 Flare , EPN number 60FLR_010",266516,region 12
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,1473.0 lbs (est.),"Source 1: 10 Flare , EPN number 60FLR_010",266516,region 12
+Sulfur dioxide,Permit 49138,15649.92 lbs,292.93 lbs (est.),"Source 1: 10 Flare , EPN number 60FLR_010",266516,region 12
+VOC (unspeciated),Permit 49138,5156.31 lbs,1446.54 lbs (est.),"Source 1: 10 Flare , EPN number 60FLR_010",266516,region 12
+Carbon Monoxide,Permit 49138,3919.77 lbs,12210.8 lbs (est.),"Source 3: 6 Flare , EPN number 60FLR_006",266516,region 12
+Hydrogen Sulfide,Permit 49138,157.03 lbs,14.69 lbs (est.),"Source 3: 6 Flare , EPN number 60FLR_006",266516,region 12
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,1706.3 lbs (est.),"Source 3: 6 Flare , EPN number 60FLR_006",266516,region 12
+Sulfur dioxide,Permit 49138,15649.92 lbs,1351.97 lbs (est.),"Source 3: 6 Flare , EPN number 60FLR_006",266516,region 12
+VOC (unspeciated),Permit 49138,5156.31 lbs,3343.34 lbs (est.),"Source 3: 6 Flare , EPN number 60FLR_006",266516,region 12
+Carbon Monoxide,Permit 49138,3919.77 lbs,10588.3 lbs (est.),"Source 6: CHD 1 Flare , EPN number 60FLR_001",266516,region 12
+Hydrogen Sulfide,Permit 49138,157.03 lbs,55.77 lbs (est.),"Source 6: CHD 1 Flare , EPN number 60FLR_001",266516,region 12
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,1514.36 lbs (est.),"Source 6: CHD 1 Flare , EPN number 60FLR_001",266516,region 12
+Sulfur dioxide,Permit 49138,15649.92 lbs,742.71 lbs (est.),"Source 6: CHD 1 Flare , EPN number 60FLR_001",266516,region 12
+VOC (unspeciated),Permit 49138,5156.31 lbs,2435.67 lbs (est.),"Source 6: CHD 1 Flare , EPN number 60FLR_001",266516,region 12
+Carbon Monoxide,Permit 49138,3919.77 lbs,16244.8 lbs (est.),"Source 8: FCC Flare , EPN number 60FLR_008",266516,region 12
+Hydrogen Sulfide,Permit 49138,157.03 lbs,272.92 lbs (est.),"Source 8: FCC Flare , EPN number 60FLR_008",266516,region 12
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,2287.67 lbs (est.),"Source 8: FCC Flare , EPN number 60FLR_008",266516,region 12
+Sulfur dioxide,Permit 49138,15649.92 lbs,2364.99 lbs (est.),"Source 8: FCC Flare , EPN number 60FLR_008",266516,region 12
+VOC (unspeciated),Permit 49138,5156.31 lbs,4936.01 lbs (est.),"Source 8: FCC Flare , EPN number 60FLR_008",266516,region 12
+Carbon Monoxide,Permit 49138,3919.77 lbs,9714.92 lbs (est.),"Source 10: HP Flare , EPN number 60FLR_003",266516,region 12
+Hydrogen Sulfide,Permit 49138,157.03 lbs,484.17 lbs (est.),"Source 10: HP Flare , EPN number 60FLR_003",266516,region 12
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,1497.4 lbs (est.),"Source 10: HP Flare , EPN number 60FLR_003",266516,region 12
+Sulfur dioxide,Permit 49138,15649.92 lbs,1.0 lbs (est.),"Source 10: HP Flare , EPN number 60FLR_003",266516,region 12
+VOC (unspeciated),Permit 49138,5156.31 lbs,5459.75 lbs (est.),"Source 10: HP Flare , EPN number 60FLR_003",266516,region 12
+Carbon Monoxide,Permit 49138,3919.77 lbs,10498.47 lbs (est.),"Source 12: LP Flare , EPN number 60FLR_005",266516,region 12
+Hydrogen Sulfide,Permit 49138,157.03 lbs,76.33 lbs (est.),"Source 12: LP Flare , EPN number 60FLR_005",266516,region 12
+Nitrogen Oxides (NOx),Permit 49138,1028.46 lbs,1493.19 lbs (est.),"Source 12: LP Flare , EPN number 60FLR_005",266516,region 12
+Sulfur dioxide,Permit 49138,15649.92 lbs,2057.91 lbs (est.),"Source 12: LP Flare , EPN number 60FLR_005",266516,region 12
+VOC (unspeciated),Permit 49138,5156.31 lbs,2283.73 lbs (est.),"Source 12: LP Flare , EPN number 60FLR_005",266516,region 12
+CO,NSR Permit 46396,226.9 LBS/HR,27.93 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",266048,region 12
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,0.03 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",266048,region 12
+NOX,NSR Permit 46396,33.0 LBS/HR,5.48 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",266048,region 12
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,490.95 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",266048,region 12
+VOC,NSR Permit 46396,529.58 LBS/HR,19.44 lbs (est.),"Source 2: North Flare , EPN number FLARECAP",266048,region 12
+CO,NSR Permit 46396,226.9 LBS/HR,16.95 lbs (est.),"Source 3: South Flare , EPN number FLARECAP",266048,region 12
+Hydrogen Sulfide,NSR Permit 46396,0.13 LBS/HR,0.01 lbs (est.),"Source 3: South Flare , EPN number FLARECAP",266048,region 12
+NOX,NSR Permit 46396,33.0 LBS/HR,3.32 lbs (est.),"Source 3: South Flare , EPN number FLARECAP",266048,region 12
+Sulfur dioxide,NSR Permit 46396,10.67 LBS/HR,617.32 lbs (est.),"Source 3: South Flare , EPN number FLARECAP",266048,region 12
+VOC,NSR Permit 46396,529.58 LBS/HR,10.56 lbs (est.),"Source 3: South Flare , EPN number FLARECAP",266048,region 12
+VOC MIXTURE,20057,0.04 LBS/HR,100.0 lbs (est.),"Source 1: Waste Water Tank Farm , EPN number S582F-3",266429,region 12
+"1,3-BUTADIENE",NSR Permit 20485 and Title V Permit O1327,100.16 LBS/HR,111.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266466,region 12
+Carbon Monoxide,NSR Permit 20485 and Title V Permit O1327,120.9 LBS/HR,1120.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266466,region 12
+NOX,NSR Permit 20485 and Title V Permit O1327,23.47 LBS/HR,1024.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266466,region 12
+Opacity,NSR Permit 20485 and Title V Permit O1327,0.0,40.0 % op (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266466,region 12
+VOCs,NSR Permit 20485 and Title V Permit O1327,253.97 LBS/HR,1254.0 lbs (est.),"Source 1: North/South Flare , EPN number UWN6R1 & UWS6R1",266466,region 12
+Ammonia,1302 & PSD-TX-1085,0.0,109.8 lbs (est.),"Source 2: Ammonia Flare , EPN number PH70",266565,region 12
+Carbon Monoxide,1302 & PSD-TX-1085,0.0,139.6 lbs (est.),"Source 2: Ammonia Flare , EPN number PH70",266565,region 12
+Hydrogen cyanide,1302 & PSD-TX-1085,0.0,0.7 lbs (est.),"Source 2: Ammonia Flare , EPN number PH70",266565,region 12
+Nitrogen Oxides,1302 & PSD-TX-1085,0.0,71.68 lbs (est.),"Source 2: Ammonia Flare , EPN number PH70",266565,region 12
+Benzene,1302 & PSD-TX-1085,0.0,9.0 lbs (est.),"Source 3: BUILDING 3090 FUGITIVES , EPN number FH402",266565,region 12
+Cyclohexane,1302 & PSD-TX-1085,0.0,465.0 lbs (est.),"Source 3: BUILDING 3090 FUGITIVES , EPN number FH402",266565,region 12
+Ammonia,1302 & PSD-TX-1085,0.0,36.29 lbs (est.),"Source 6: Start-Up Flare , EPN number PH2",266565,region 12
+Carbon Monoxide,1302 & PSD-TX-1085,0.0,65.13 lbs (est.),"Source 6: Start-Up Flare , EPN number PH2",266565,region 12
+Hydrogen cyanide,1302 & PSD-TX-1085,0.0,0.96 lbs (est.),"Source 6: Start-Up Flare , EPN number PH2",266565,region 12
+Nitrogen Oxides,1302 & PSD-TX-1085,0.0,23.09 lbs (est.),"Source 6: Start-Up Flare , EPN number PH2",266565,region 12
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,135.0 lbs (est.),"Source 7: Flare 15 , EPN number E-15-FLARE",266764,region 12
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,74.0 lbs (est.),"Source 8: Flare 18 , EPN number E-18-FLARE",266764,region 12
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,485.0 lbs (est.),"Source 9: Flare 19 , EPN number E-19-FLARE",266764,region 12
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,11.0 lbs (est.),"Source 10: Flare 20 , EPN number E-20-FLARE",266764,region 12
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,1000.0 lbs (est.),"Source 11: Flare 22 , EPN number E-22-FLARE",266764,region 12
+Sulfur dioxide,NSR Permit 6825A MAERT Subcap,0.0,54151.0 lbs (est.),"Source 12: Flare 23 , EPN number E-23-FLARE",266764,region 12
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,1016.0 lbs (est.),"Source 13: Flare 26 , EPN number E-26-FLARE",266764,region 12
+Sulfur dioxide,NSR Permit 80812 MAERT Subcap,0.0,5630.0 lbs (est.),"Source 14: Flare-103B , EPN number E-103B-FLARE",266764,region 12
+CO,Permit 21101,77.52 LBS/HR,1900.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 12
+Cyclohexane,Permit 21101 (as VOC),166.26 LBS/HR,300.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 12
+NOX,Permit 21101,15.21 LBS/HR,300.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 12
+Other VOCs,Permit 21101,166.26 LBS/HR,500.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 12
+Propane,Permit 21101 (as VOC),166.26 LBS/HR,800.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 12
+Propylene (Propene),Permit 21101 (as VOC),166.26 LBS/HR,1800.0 lbs (est.),"Source 3: Cyclohexane Unit Process Flare MSS , EPN number MSSAROMFLR",266458,region 12
+Acetylene,Permit 21101 (as VOC),2933.17 LBS/HR,11.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 12
+Benzene,Permit 21101 (as VOC),139.54 LBS/HR,70.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 12
+"Butadiene, 1-3",Permit 21101 (as VOC),2933.17 LBS/HR,70.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 12
+Butene,Permit 21101 (as VOC),2933.17 LBS/HR,80.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 12
+CO,Permit 21101,3057.24 LBS/HR,11000.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 12
+Ethylene (gaseous),Permit 21101 (as VOC),2933.17 LBS/HR,7000.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 12
+Isobutane,Permit 21101 (as VOC),2933.17 LBS/HR,60.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 12
+NOX,Permit 21101,464.93 LBS/HR,1800.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 12
+Other VOCs,Permit 21101,2933.17 LBS/HR,1000.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 12
+Propane,Permit 21101 (as VOC),2933.17 LBS/HR,1900.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 12
+Propylene (Propene),Permit 21101 (as VOC),2933.17 LBS/HR,6000.0 lbs (est.),"Source 6: Ethylene Unit Process Flare MSS , EPN number MSS1544FLR",266458,region 12
+Ethylene (gaseous),No specific emissions authorizations for this facility,0.0,514.3 lbs (est.),"Source 1: A3 South Flare , EPN number UER037",265176,region 12
+Ethylene (gaseous),No specific emissions authorizations for this facility,0.0,3236.0 lbs (est.),"Source 2: F8 Cycle Gas Vent , EPN number",265176,region 12
+Ethylene oxide,No specific emissions authorizations for this facility,0.0,3.25 lbs (est.),"Source 2: F8 Cycle Gas Vent , EPN number",265176,region 12
+Ethylene (gaseous),No specific emissions authorizations for this facility,0.0,2822.65 lbs (est.),"Source 5: F8 Reabsorber Vent , EPN number",265176,region 12
+Ethylene oxide,No specific emissions authorizations for this facility,0.0,0.741 lbs (est.),"Source 5: F8 Reabsorber Vent , EPN number",265176,region 12
+"1,3-BUTADIENE",Permit 21101 (as VOC),476.58 LBS/HR,0.17 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 12
+Butane,Permit 21101 (as VOC),476.58 LBS/HR,28.95 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 12
+CO,Permit 21101,364.28 LBS/HR,1274.49 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 12
+Cyclohexane,Permit 21101 (as VOC),476.58 LBS/HR,353.66 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 12
+Isobutane,Permit 21101 (as VOC),476.58 LBS/HR,48.21 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 12
+NOX,Permit 21101,71.49 LBS/HR,250.12 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 12
+Other VOCs,Permit 21101,476.58 LBS/HR,243.78 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 12
+Propylene,Permit 21101 (as VOC),476.58 LBS/HR,16.04 lbs (est.),"Source 1: CU 1741 , EPN number F-40-FLARE",265764,region 12
+"1,3-BUTADIENE",Permit 21101 (as VOC),416.5 LBS/HR,46.36 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 12
+Acetylene,Permit 21101 (as VOC),416.5 LBS/HR,4.88 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 12
+Benzene,Permit 21101 (as VOC),416.5 LBS/HR,93.24 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 12
+Carbon Monoxide,Permit 21101,362.11 LBS/HR,28886.63 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 12
+"Ethylene, gaseous",Permit 21101 (as VOC),416.5 LBS/HR,11816.88 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 12
+NOX,Permit 21101,90.68 LBS/HR,5060.2 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 12
+Other VOCs,Permit 21101,416.5 LBS/HR,130.91 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 12
+Propane,Permit 21101 (as VOC),416.5 LBS/HR,58.33 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 12
+Propylene,Permit 21101 (as VOC),416.5 LBS/HR,691.12 lbs (est.),"Source 6: Ethylene Unit Process Flare , EPN number E-24-FLARE",265764,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,80000.0 lbs (est.),"Source 7: FCCU Regenerator Vent , EPN number E-01-WGS",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,500.0 lbs (est.),"Source 7: FCCU Regenerator Vent , EPN number E-01-WGS",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,600.0 lbs (est.),"Source 8: Flare 103B , EPN number E-103-FLARE",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,100.0 lbs (est.),"Source 8: Flare 103B , EPN number E-103-FLARE",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,120.0 lbs (est.),"Source 8: Flare 103B , EPN number E-103-FLARE",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,10000.0 lbs (est.),"Source 8: Flare 103B , EPN number E-103-FLARE",266834,region 12
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,180.0 lbs (est.),"Source 8: Flare 103B , EPN number E-103-FLARE",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,3600.0 lbs (est.),"Source 9: Flare 15 , EPN number E-15-FLARE",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,15.0 lbs (est.),"Source 9: Flare 15 , EPN number E-15-FLARE",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,700.0 lbs (est.),"Source 9: Flare 15 , EPN number E-15-FLARE",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,1200.0 lbs (est.),"Source 9: Flare 15 , EPN number E-15-FLARE",266834,region 12
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,800.0 lbs (est.),"Source 9: Flare 15 , EPN number E-15-FLARE",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,3000.0 lbs (est.),"Source 10: Flare 18 , EPN number E-18-FLARE",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,30.0 lbs (est.),"Source 10: Flare 18 , EPN number E-18-FLARE",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,600.0 lbs (est.),"Source 10: Flare 18 , EPN number E-18-FLARE",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,2500.0 lbs (est.),"Source 10: Flare 18 , EPN number E-18-FLARE",266834,region 12
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,500.0 lbs (est.),"Source 10: Flare 18 , EPN number E-18-FLARE",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,800.0 lbs (est.),"Source 11: Flare 19 , EPN number E-19-FLARE",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,100.0 lbs (est.),"Source 11: Flare 19 , EPN number E-19-FLARE",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,150.0 lbs (est.),"Source 11: Flare 19 , EPN number E-19-FLARE",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,10000.0 lbs (est.),"Source 11: Flare 19 , EPN number E-19-FLARE",266834,region 12
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,100.0 lbs (est.),"Source 11: Flare 19 , EPN number E-19-FLARE",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,400.0 lbs (est.),"Source 12: Flare 20 , EPN number E-20-FLARE",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,15.0 lbs (est.),"Source 12: Flare 20 , EPN number E-20-FLARE",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,80.0 lbs (est.),"Source 12: Flare 20 , EPN number E-20-FLARE",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,600.0 lbs (est.),"Source 12: Flare 20 , EPN number E-20-FLARE",266834,region 12
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,100.0 lbs (est.),"Source 12: Flare 20 , EPN number E-20-FLARE",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,8500.0 lbs (est.),"Source 13: Flare 22 , EPN number E-22-FLARE",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,100.0 lbs (est.),"Source 13: Flare 22 , EPN number E-22-FLARE",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,1800.0 lbs (est.),"Source 13: Flare 22 , EPN number E-22-FLARE",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,10000.0 lbs (est.),"Source 13: Flare 22 , EPN number E-22-FLARE",266834,region 12
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,2200.0 lbs (est.),"Source 13: Flare 22 , EPN number E-22-FLARE",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,12500.0 lbs (est.),"Source 14: Flare 23 , EPN number E-23-FLARE",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,300.0 lbs (est.),"Source 14: Flare 23 , EPN number E-23-FLARE",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,2500.0 lbs (est.),"Source 14: Flare 23 , EPN number E-23-FLARE",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,25000.0 lbs (est.),"Source 14: Flare 23 , EPN number E-23-FLARE",266834,region 12
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,1000.0 lbs (est.),"Source 14: Flare 23 , EPN number E-23-FLARE",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,1500.0 lbs (est.),"Source 15: Flare 26 , EPN number E-26-FLARE",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,30.0 lbs (est.),"Source 15: Flare 26 , EPN number E-26-FLARE",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,300.0 lbs (est.),"Source 15: Flare 26 , EPN number E-26-FLARE",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,2000.0 lbs (est.),"Source 15: Flare 26 , EPN number E-26-FLARE",266834,region 12
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,150.0 lbs (est.),"Source 15: Flare 26 , EPN number E-26-FLARE",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,40000.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,20.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,700.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 12
+Particulate Matter,NSR Permit 80812 Site Wide CAP,19.22 LBS/HR,150.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,5000.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 12
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,150.0 lbs (est.),"Source 19: SCOT 1 Tail Gas Incinerator , EPN number E-01-SCOT",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site-Wide CAP,699.57 LBS/HR,40000.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site-Wide CAP,89.82 LBS/HR,20.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site-Wide CAP,167.23 LBS/HR,700.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 12
+Particulate Matter,NSR Permit 80812 Site-Wide CAP,19.22 LBS/HR,150.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site-Wide CAP,641.19 LBS/HR,5000.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 12
+VOC,NSR Permit 80812 Site-Wide CAP,4186.14 LBS/HR,150.0 lbs (est.),"Source 20: SCOT 2 Tail Gas Incinerator , EPN number E-02-SCOT",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,500.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,15.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,500.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 12
+Particulate Matter,NSR Permit 80812 Site Wide CAP,19.22 LBS/HR,40.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,3000.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 12
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,40.0 lbs (est.),"Source 21: SCOT 3 Tail Gas Incinerator , EPN number E-03-SCOT",266834,region 12
+Carbon Monoxide,NSR Permit 80812 Site Wide CAP,699.57 LBS/HR,500.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 12
+Hydrogen Sulfide,NSR Permit 80812 Site Wide CAP,89.82 LBS/HR,30.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 12
+Oxides of Nitrogen (NOx),NSR Permit 80812 Site Wide CAP,167.23 LBS/HR,500.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 12
+Particulate Matter,NSR Permit 80812 Site Wide CAP,19.22 LBS/HR,40.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 12
+Sulfur dioxide,NSR Permit 80812 Site Wide CAP,641.19 LBS/HR,3000.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 12
+VOC,NSR Permit 80812 Site Wide CAP,4186.14 LBS/HR,40.0 lbs (est.),"Source 22: SCOT 4 Tail Gas Incinerator , EPN number E-04-SCOT",266834,region 12
+"1,3-BUTADIENE",NSR9908,0.18 LBS/HR,37.0 lbs (est.),"Source 2: REACDB , EPN number REAC216",265189,region 12
+Sulfur dioxide,Permit 49138,157.03 LBS/HR,1312.84 lbs (est.),"Source 2: Thermal Oxidizer , EPN number 32STK_001",266314,region 12
+"1,3-BUTADIENE",Permit 21101 (as VOC),476.58 LBS/HR,0.13 lbs (est.),"Source 1: Aromatics Process Flare , EPN number F-40-FLARE",265107,region 12
+Carbon Monoxide,Permit 21101,364.28 LBS/HR,235.7 lbs (est.),"Source 1: Aromatics Process Flare , EPN number F-40-FLARE",265107,region 12
+Cyclohexane,Permit 21101 (as VOC),476.58 LBS/HR,41.52 lbs (est.),"Source 1: Aromatics Process Flare , EPN number F-40-FLARE",265107,region 12
+NOX,Permit 21101,71.49 LBS/HR,46.26 lbs (est.),"Source 1: Aromatics Process Flare , EPN number F-40-FLARE",265107,region 12
+Other VOCs,Permit 21101,476.58 LBS/HR,40.9 lbs (est.),"Source 1: Aromatics Process Flare , EPN number F-40-FLARE",265107,region 12
+"1,3-BUTADIENE",Permit 21101 (as VOC),416.5 LBS/HR,0.44 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 12
+Acetylene,Permit 21101 (as VOC),416.5 LBS/HR,5.47 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 12
+Benzene,Permit 21101 (as VOC),416.5 LBS/HR,9.83 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 12
+Carbon Monoxide,Permit 21101,362.11 LBS/HR,10868.85 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 12
+Ethylene (gaseous),Permit 21101 (as VOC),416.5 LBS/HR,8955.75 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 12
+NOX,Permit 21101,90.68 LBS/HR,1667.73 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 12
+Other VOCs,Permit 21101,416.5 LBS/HR,19.75 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 12
+Propane,Permit 21101 (as VOC),416.5 LBS/HR,66.5 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 12
+Propylene (Propene),Permit 21101 (as VOC),416.5 LBS/HR,345.68 lbs (est.),"Source 6: Ethlyene Unit Process Flare , EPN number E-24-FLARE",265107,region 12
+Opacity,No specific emissions authorizations for this facility,10.0 % op,62.33 % op (est.),"Source 1: Boiler , EPN number 22",266256,region 12
